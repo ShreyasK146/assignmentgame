@@ -1,8 +1,11 @@
 **NOTE:**
 
 1)Grid can be created via Tools/CustomGridTool editor windwo or during the runtime UI
+
 2)Obstacles can be created via Editor 
+
 3)grid size is clamped between 2-20
+
 4)player is not allowed to move through the enemy(this setup is also added)
 
 some example images of the game ->
